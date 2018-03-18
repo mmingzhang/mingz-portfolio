@@ -133,17 +133,7 @@ body {
     text-align: center;
     text-shadow: 0 1px 1px rgba(0,0,0,0.46);
 }
-/*
-.content .home h1{
-    font-size: 42px;
-    font-weight: 600;
-    font-style: italic;
-    color: #fff;
-    float: left;
-    width: 100%;
-    margin-bottom: 50px;
-}
-*/
+
 .content .home {
     font-family:"Arial Black", "Helvetica Neue", sans-serif;
     font-size: 1.7em;
