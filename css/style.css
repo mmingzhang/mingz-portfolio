@@ -178,6 +178,7 @@ body {
 .about-text {
     width: 85%;
     text-align: left;
+    margin-left: 10px;
     font-family:"Calibri", "Helvetica Neue", sans-serif;
     font-size: 19px;
     margin-right: 10px;
